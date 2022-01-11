@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "پست 1",
+      "Description": "that is one of the amazin post1"
+    },
+    {
+      "id": 2,
+      "title": "پست 2",
+      "Description": "that is one of the amazin post2"
+    },
+    {
+      "id": 3,
+      "title": "پست 3",
+      "Description": "that is one of the amazin post3"
+    },
+    {
+      "id": 4,
+      "title": "پست 4",
+      "Description": "that is one of the amazin post4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "sender": "علی",
+      "message": "بسیار عالی بود",
+      "postId": "1"
+    },
+    {
+      "id": 2,
+      "sender": "هادی",
+      "message": "لذت بردیم",
+      "postId": "1"
+    },
+    {
+      "id": 3,
+      "sender": "مریم",
+      "message": "خداقوت",
+      "postId": "1"
+    },
+    {
+      "id": 4,
+      "sender": "آناهیتا",
+      "message": "خسته نباشید",
+      "postId": "2"
+    },
+    {
+      "id": 5,
+      "sender": "حسین",
+      "message": "بسیار عالی بود",
+      "postId": "4"
+    }
+  ]
+}
